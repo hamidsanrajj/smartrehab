@@ -1,0 +1,95 @@
+
+<div id="slider" style="background-color: lightgray; background-color: rgb(27, 55, 255); background-color: rgb(0, 100, 255) !important;">
+  <div class="row">
+    <div class="col-md-6" style="padding: 50px;">
+ 
+<style type="text/css">
+  @media (max-width: 450px) {
+      #slider h1{
+        margin-top: 200px !important;
+      }
+    }
+</style>
+
+
+      <h1 style="margin-top: 200px !important; color: rgb(254, 14, 12); color: white;">Welcome to SMS</h1>
+      <h2 style="color: white;">Providing healthcare to patients</h2>
+
+<ul style="color: black;">
+  <li style="color: white;">Quality Healthcare, Anytime — 24/7</li>
+  <li style="color: white;">Caring for You, Anytime, Anywhere</li>
+  <li style="color: white;">Your Health, Our Priority – Around the Clock.</li>
+  <li style="color: white;">Trusted Care, 24 Hours a Day.</li>
+  <li style="color: white;">SMART Care, Day & Night.</li>
+</ul>
+
+
+
+    </div>
+    <div class="col-md-6" style="padding: 10px; padding-top: 15px;">
+      
+
+<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Slide 6"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="6" aria-label="Slide 7"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="7" aria-label="Slide 8"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="8" aria-label="Slide 9"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="9" aria-label="Slide 10"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="10" aria-label="Slide 11"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img/slider/2-CVA-1.gif" class="d-block w-100" alt="..." style="margin-top: 150px;">
+    </div>
+    <div class="carousel-item">
+      <img src="img/slider/10-Child-Phy-1.gif" class="d-block w-100" alt="..." style="margin-top: 150px;">
+    </div>
+    <div class="carousel-item">
+      <img src="img/slider/3-Spinal-anatomy.gif" class="d-block w-100" alt="..." style="margin-top: 150px;">
+    </div>
+    <div class="carousel-item">
+      <img src="img/slider/4-Shoulder-Anatomy.gif" class="d-block w-100" alt="..." style="margin-top: 150px;">
+    </div>
+    <div class="carousel-item">
+      <img src="img/slider/5-Elbow-anatomy.gif" class="d-block w-100" alt="..." style="margin-top: 150px;">
+    </div>
+    <div class="carousel-item">
+      <img src="img/slider/6-Hand-anatomy.gif" class="d-block w-100" alt="..." style="margin-top: 150px;">
+    </div> 
+    <div class="carousel-item">
+      <img src="img/slider/7-Hip.gif" class="d-block w-100" alt="..." style="margin-top: 150px;">
+    </div> 
+    <div class="carousel-item">
+      <img src="img/slider/8-Knee.gif" class="d-block w-100" alt="..." style="margin-top: 150px;">
+    </div> 
+    <div class="carousel-item">
+      <img src="img/slider/9-Ankle-and-foot.gif" class="d-block w-100" alt="..." style="margin-top: 150px;">
+    </div>
+    <div class="carousel-item">
+      <img src="img/slider/10-Child-Phy.gif" class="d-block w-100" alt="..." style="margin-top: 150px;">
+    </div>
+    <div class="carousel-item">
+      <img src="img/slider/11-PRP.gif" class="d-block w-100" alt="..." style="margin-top: 150px;">
+    </div> 
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>  
+
+
+    </div>
+  </div>
+</div>
+
